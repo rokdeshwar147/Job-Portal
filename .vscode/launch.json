@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PlacementPortalApplication<placement-portal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.placement.portal.PlacementPortalApplication",
+            "projectName": "placement-portal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
